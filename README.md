@@ -9,6 +9,6 @@
 
 **root@node1:/home/user/mkb# kubectl get secret**
 
-NAME                 TYPE     DATA   AGE
-postgresql-secrets   Opaque   1      24h
+    NAME                 TYPE     DATA   AGE
+    postgresql-secrets   Opaque   1      24h
 
