@@ -12,3 +12,6 @@
     NAME                 TYPE     DATA   AGE
     postgresql-secrets   Opaque   1      24h
 
+**root@node1:/home/user/mkb# cat postgresql.yaml**
+
+[statefulset.txt](https://github.com/user-attachments/files/18286082/statefulset.txt)
